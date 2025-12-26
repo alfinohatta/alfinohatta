@@ -62,33 +62,24 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 <div align="center">
 
-**🌌 Next-Gen Web 3D Experiences**
-<br>
+#### 🌌 Next‑Gen Web 3D Experiences  
 *Leveraging WebGL and Three.js to create fluid, interactive environments directly in the browser.*
-<br><br>
-<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/gif.gif" />
 
-<br><br>
-
-**🎮 High-Fidelity Gaming Worlds**
-<br>
-*Pushing the limits of visuals with Unity & Unreal Engine for immersive gameplay.*
-<br><br>
-<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/Satisfying%20Video%20Game%20GIF%20by%20Doomlaser.gif" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/viceland%20GIF%20by%20Motherboard.gif" />
-
-<img src="" />
+<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/gif.gif" width="80%" alt="Next‑Gen Web 3D Experiences" />
 
 ---
 
-### 📊 GitHub Analytics
+#### 🎮 High‑Fidelity Gaming Worlds  
+*Pushing the limits of visuals with Unity & Unreal Engine for immersive gameplay.*
+
+<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/Satisfying%20Video%20Game%20GIF%20by%20Doomlaser.gif" width="80%" alt="High‑Fidelity Gaming Worlds" />
+
+---
+
+### 👀 Profile Views
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfinohatta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinohatta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://komarev.com/ghpvc/?username=alfinohatta&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
