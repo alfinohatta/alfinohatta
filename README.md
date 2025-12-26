@@ -74,7 +74,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 <br>
 *Pushing the limits of visuals with Unity & Unreal Engine for immersive gameplay.*
 <br><br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN6cW55eHZ6cW55eHZ6cW55eHZ6cW55eHZ6cW55eHZ6cW55eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Cyberpunk 3D City" />
+<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/Satisfying%20Video%20Game%20GIF%20by%20Doomlaser.gif" />
 
 </div>
 
