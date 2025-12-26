@@ -66,7 +66,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 <br>
 *Leveraging WebGL and Three.js to create fluid, interactive environments directly in the browser.*
 <br><br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6cW55eHZ6cW55eHZ6cW55eHZ6cW55eHZ6cW55eHZ6cW55eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLnTeN2/giphy.gif" width="100%" alt="WebGL Fluid Simulation" />
+<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/gif.gif" />
 
 <br><br>
 
