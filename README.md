@@ -78,6 +78,10 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 </div>
 
+<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/viceland%20GIF%20by%20Motherboard.gif" />
+
+<img src="" />
+
 ---
 
 ### 📊 GitHub Analytics
