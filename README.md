@@ -10,10 +10,9 @@
   <a href="https://alfino-hatta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:timescreative@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-vino28120%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:timescreative@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-timescreative%40protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-
 </div>
 
 ---
@@ -73,6 +72,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 *Pushing the limits of visuals with Unity & Unreal Engine for immersive gameplay.*
 
 <img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/Satisfying%20Video%20Game%20GIF%20by%20Doomlaser.gif" width="80%" alt="High‑Fidelity Gaming Worlds" />
+</div>  
 
 ---
 
