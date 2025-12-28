@@ -10,7 +10,7 @@
   <a href="https://alfino-hatta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:vino28120@gmail.com">
+  <a href="mailto:timescreative@protonmail.com">
     <img src="https://img.shields.io/badge/Email-vino28120%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -87,7 +87,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 ### 📜 Latest Articles
 
 - [**Microservices Architecture with Golang & Docker**](https://medium.com/@alfinohatta/building-scalable-systems-a-deep-dive-into-microservices-with-golang-docker-9cdaae7c2fca)
-- [**Integrating Three.js with React: A Performance Guide**](https://alfino-hatta.vercel.app/blog)
+- [**Integrating Three.js with React: A Performance Guide**](https://medium.com/@alfinohatta/integrating-three-js-278774d45973)
 - [**Next.js Server Actions: The Future of Fullstack**](https://alfino-hatta.vercel.app/blog)
 
 ---
