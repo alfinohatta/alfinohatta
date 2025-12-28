@@ -31,7 +31,7 @@ In everything I build, I try to balance precision with creativity, structure wit
 
 ---
 
-### 🛠️ Professional Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 My development arsenal includes industry-standard languages, frameworks, cloud infrastructure, and 3D engines:
 
