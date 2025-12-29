@@ -88,7 +88,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 - [**Microservices Architecture with Golang & Docker**](https://medium.com/@alfinohatta/building-scalable-systems-a-deep-dive-into-microservices-with-golang-docker-9cdaae7c2fca)
 - [**Integrating Three.js with React: A Performance Guide**](https://medium.com/@alfinohatta/integrating-three-js-278774d45973)
-- [**Next.js Server Actions: The Future of Fullstack**](https://alfino-hatta.vercel.app/blog)
+- [**Next.js Server Actions: The Future of Fullstack**](https://medium.com/@alfinohatta/next-js-server-actions-the-future-of-fullstack-3139ab2986b4)
 
 ---
 
