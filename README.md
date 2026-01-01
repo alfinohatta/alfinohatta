@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/alfino-hatta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://alfino-hatta.vercel.app/">
+  <a href="https://alfino-os.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 <a href="mailto:timescreative@protonmail.com">
