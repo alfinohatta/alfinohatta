@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Fullstack Website Developer** and **3D Enthusiast** based in **Jakarta, Indonesia**. I love building things that blend logic and creativity, turning ideas into experiences that people can see, feel, and interact with. My focus is on creating scalable web applications that combine strong architecture with design that feels alive and purposeful.
+I’m a **Fullstack AI Developer** and **3D Enthusiast** based in **Jakarta, Indonesia**. I love building things that blend logic and creativity, turning ideas into experiences that people can see, feel, and interact with. My focus is on creating scalable web applications that combine strong architecture with design that feels alive and purposeful.
 
 I’m naturally curious about how things work behind the scenes. Whether it’s exploring a new framework, understanding system performance, or improving team workflows, I’m always eager to learn and grow. For me, every challenge is an opportunity to discover something new and sharpen my craft.
 
