@@ -33,31 +33,31 @@ In everything I build, I try to balance precision with creativity, structure wit
 
 ### 🛠️ Tech Stack & Tools
 
-My development arsenal includes industry-standard languages, frameworks, cloud infrastructure, and 3D engines, with a strong focus on AI/ML:
+My development arsenal includes industry-standard languages, frameworks, cloud infrastructure, and 3D engines, with a strong focus on AI/ML and full-stack web development:
 
 **Languages & Core:**
 <br>
-<img src="https://skillicons.dev/icons?i=python,go,rust,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,cpp,html,css,php" />
 
 **Frontend & UI/UX:**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,materialui,vite,figma" />
 
 **Backend, Database & API:**
 <br>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,graphql,postgres,mysql,mongodb,redis,firebase,prisma" />
 
 **DevOps, Cloud & Architecture:**
 <br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,githubactions,jenkins,postman" />
 
 **AI/ML Frameworks & Tools:**
 <br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,huggingface" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-**3D Development & Game Engines:**
+**3D Development:**
 <br>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,threejs,webgl" />
+<img src="https://skillicons.dev/icons?i=threejs,webgl" />
 
 ---
 
