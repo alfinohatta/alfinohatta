@@ -49,7 +49,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 **DevOps, Cloud & Architecture:**
 <br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,githubactions,jenkins,postman" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,git,githubactions,jenkins,postman" />
 
 **AI/ML Frameworks & Tools:**
 <br>
