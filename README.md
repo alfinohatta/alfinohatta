@@ -73,7 +73,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 ---
 
 #### 🎮 High‑Fidelity Gaming Worlds  
-*Pushing the limits of visuals with Unity & Unreal Engine for immersive gameplay.*
+*Pushing the limits of visuals for immersive gameplay.*
 
 <img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/Satisfying%20Video%20Game%20GIF%20by%20Doomlaser.gif" width="80%" alt="High‑Fidelity Gaming Worlds" />
 </div>  
