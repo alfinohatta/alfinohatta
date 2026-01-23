@@ -2,7 +2,7 @@
 
   # Hi there, I'm Alfino Hatta 👋
 
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fullstack%20Developer%20&%203D%20Creator&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Realities%20in%20Jakarta,%20Indonesia&descAlignY=55&descAlign=50)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=AI%20Engineer%20&%203D%20Creator&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Realities%20in%20Jakarta,%20Indonesia&descAlignY=55&descAlign=50)
 
   <a href="https://www.linkedin.com/in/alfino-hatta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
