@@ -37,19 +37,19 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 **Languages & Core:**
 <br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,cpp,html,css,php" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,html,css,php" />
 
 **Frontend & UI/UX:**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,materialui,vite,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,materialui,vite,figma" />
 
 **Backend, Database & API:**
 <br>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,graphql,postgres,mysql,mongodb,redis,firebase,prisma" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,graphql,postgres,mysql,mongodb,firebase" />
 
 **DevOps, Cloud & Architecture:**
 <br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,git,githubactions,jenkins,postman" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions,postman" />
 
 **AI/ML Frameworks & Tools:**
 <br>
