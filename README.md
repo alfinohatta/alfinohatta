@@ -61,25 +61,6 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 ---
 
-### 🚀 3D & Interactive Showcase
-
-<div align="center">
-
-#### 🌌 Next‑Gen Web 3D Experiences  
-*Leveraging WebGL and Three.js to create fluid, interactive environments directly in the browser.*
-
-<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/gif.gif" width="80%" alt="Next‑Gen Web 3D Experiences" />
-
----
-
-#### 🎮 High‑Fidelity Gaming Worlds  
-*Pushing the limits of visuals for immersive gameplay.*
-
-<img src="https://raw.githubusercontent.com/alfinohatta/alfinohatta/main/Satisfying%20Video%20Game%20GIF%20by%20Doomlaser.gif" width="80%" alt="High‑Fidelity Gaming Worlds" />
-</div>  
-
----
-
 ### 👀 Profile Views
 
 <div align="center">
