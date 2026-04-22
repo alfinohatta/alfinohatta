@@ -10,7 +10,7 @@
   <a href="https://alfino-os.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-<a href="mailto:timescreative@protonmail.com">
+<a href="mailto:alfinohatta@vk.com">
     <img src="https://img.shields.io/badge/Email-timescreative%40protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </div>
