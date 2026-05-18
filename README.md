@@ -37,7 +37,7 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 
 **Languages & Core:**
 <br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,html,css,php" />
+<img src="https://skillicons.dev/icons?i=kotlin,python,js,ts,go,cpp,html,css,php" />
 
 **Frontend & UI/UX:**
 <br>
