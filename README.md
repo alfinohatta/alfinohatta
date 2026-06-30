@@ -25,7 +25,7 @@ I’m naturally curious about how things work behind the scenes. Whether it’s 
 
 Collaboration is also at the heart of how I work. I believe great products come from open communication, shared curiosity, and respect for different perspectives. I enjoy connecting with people who are passionate about what they do, learning from them, and building something meaningful together.
 
-Lately, I’ve been fascinated by how technology is reshaping the way people interact with the world. Bringing immersive visuals and real time interactivity to mobile experiences feels like the next evolution of digital innovation, and I love experimenting with that world whenever I can.
+Lately, I’ve been fascinated by how technology is reshaping the way people interact with the world. Bringing immersive visuals and real-time interactivity to mobile experiences feels like the next evolution of digital innovation, and I love experimenting with that world whenever I can.
 
 In everything I build, I try to balance precision with creativity, structure with imagination, and technology with empathy. Because for me, great development is not only about writing good code, but also about creating experiences that inspire and connect people.
 
