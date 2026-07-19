@@ -64,12 +64,12 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alfinohatta&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alfinohatta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alfinohatta&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinohatta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfinohatta&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alfinohatta&theme=tokyonight&hide_border=true" />
 </div>
 
 ### 👀 Profile Views
