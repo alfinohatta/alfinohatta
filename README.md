@@ -96,5 +96,5 @@ My development arsenal includes industry-standard languages, frameworks, cloud i
 ---
 
 <div align="center">
-  <p>Made with ❤️ in Jakarta, Indonesia by <b>Alfino Hatta</b></p>
+  <p>Made with ❤️ in Astana, Kazakhstan by <b>Alfino Hatta</b></p>
 </div>
